@@ -1,0 +1,21 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Start Log": "Command",
+      "/SmartDashboard/Stop Log": "Command"
+    },
+    "windows": {
+      "/SmartDashboard/Start Log": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Stop Log": {
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  }
+}
